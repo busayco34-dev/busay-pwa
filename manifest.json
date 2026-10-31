@@ -1,0 +1,19 @@
+{
+  "id": "https://busaystore.com/tr",
+  "name": "busay.co",
+  "short_name": "busay.co",
+  "description": "Busay.co | Tesettür Giyim: Takım, Tunik, Elbise ve Etek",
+  "lang": "tr",
+  "start_url": "https://busaystore.com/tr?utm_source=pwa",
+  "scope": "https://busaystore.com/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "mask-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "mask-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
